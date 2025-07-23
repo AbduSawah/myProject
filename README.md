@@ -1,2 +1,2 @@
-# myProject
-this is my first project
+# Town jersey
+Website for football shirts
